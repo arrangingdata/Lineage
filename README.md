@@ -1,2 +1,2 @@
 # Lineage
-Lineage examples
+Lineage examples in Data Warehousing
